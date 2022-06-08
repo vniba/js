@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-function functionNwqś(params) {
-  console.log("gww");
-=======
 let a = 98,
   b = 44,
   c = 38,
@@ -28,5 +24,4 @@ else if (c > d) {
   alert("c is big");
 } else {
   alert("d is big");
->>>>>>> Stashed changes
 }
